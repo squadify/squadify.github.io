@@ -25,6 +25,7 @@
 
 <ul>
   <li>Public Landing page</li>
+  <img src="https://github.com/lihongman/final-project-mockup/raw/master/Landing_Page.png">
   <li>Login page</li>
   <li>User home page</li>
   <li>Admin home page</li>
@@ -52,9 +53,5 @@
   <li>Provide “expiration date” for club listings (either one semester or one academic year).  To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.</li>
   <li>Allow students to rate clubs.</li>
 </ul>
-
-##Mockups
-
-<img src="https://github.com/lihongman/final-project-mockup/raw/master/Landing_Page.png">
 
 </div>
