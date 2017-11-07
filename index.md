@@ -53,5 +53,8 @@
   <li>Allow students to rate clubs.</li>
 </ul>
 
+##Mockups
+
+<img src="https://github.com/lihongman/final-project-mockup/raw/master/Landing_Page.png">
 
 </div>
