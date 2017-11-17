@@ -54,4 +54,6 @@
   <li>Allow students to rate clubs.</li>
 </ul>
 
+<a href="https://github.com/squadify/squadify.github.io">Link</a> to project.
+
 </div>
