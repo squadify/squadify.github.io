@@ -26,7 +26,6 @@
 
 <ul>
   <li>Public Landing page</li>
-  <img src="https://github.com/lihongman/final-project-mockup/raw/master/Landing_Page.png">
   <li>Login page</li>
   <li>User home page</li>
   <li>Admin home page</li>
@@ -57,11 +56,11 @@
 
 <h3 id="mockups">Mockups</h3>
 
-<img href="/images/landing.png">
-<img href="/images/search.png">
-<img href="/images/list.png">
-<img href="/images/club-page.png">
-<img href="/images/profile.png">
+<img src="/images/landing.png">
+<img src="/images/search.png">
+<img src="/images/list.png">
+<img src="/images/club-page.png">
+<img src="/images/profile.png">
 
 <a href="https://github.com/squadify/squadify.github.io">Link</a> to project.
 
