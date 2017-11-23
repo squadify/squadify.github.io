@@ -1,5 +1,6 @@
 <div class="container">
   <h1 id="project-club-hub">Project: Club Hub</h1>
+  <a href="http://squadify.meteorapp.com/">Link to Webpage</a>
 
 <h3 id="overview">Overview</h3>
 
@@ -53,6 +54,14 @@
   <li>Provide “expiration date” for club listings (either one semester or one academic year).  To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.</li>
   <li>Allow students to rate clubs.</li>
 </ul>
+
+<h3 id="mockups">Mockups</h3>
+
+<img href="/images/landing.png">
+<img href="/images/search.png">
+<img href="/images/list.png">
+<img href="/images/club-page.png">
+<img href="/images/profile.png">
 
 <a href="https://github.com/squadify/squadify.github.io">Link</a> to project.
 
