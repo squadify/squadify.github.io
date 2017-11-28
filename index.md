@@ -2,7 +2,7 @@
   <h1 id="project-club-hub">Squadify</h1>
   <a href="http://squadify.meteorapp.com/">Link to Webpage</a>
 
-<h3 id="overview">Overview</h3>
+<h2 id="overview">Overview</h2>
 
 <p><em>The problem:</em> UH Manoa has over 200 <a href="http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php">Registered Independent Organizations</a>, plus many more that do not have this “official” status but are nonetheless active organizations.  Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.</p>
 
@@ -14,32 +14,32 @@
 
 <p>Admins can monitor the site for inappropriate content, create new tags, and ban inappropriate users who violate the Terms of Use.</p>
 
-<h3 id="mockup-page-ideas">Mockup page</h3>
-
-<ul>
-  <li>Public Landing page</li>
-  <img src="/images/landing.png">
-  
-  <li>Search Page</li>
-  <img src="/images/search.png">
-  
-  <li>Profile page</li>
-  <img src="/images/profile.png">
-  
-  <li>Club page</li>
-  <img src="/images/club-page.png">
-  
-  <li>Club admin home page</li>
-  <img src="/images/club-edit.png">
-  
-  <li>Browse clubs by interest area(s)</li>
-  <img src="/images/list.png">
-  
-  <li>Admin home page</li>
-</ul>
+<h2 id="mockup-page-ideas">Mockup page</h2>
 
 
-<h3 id="beyond-the-basics">Beyond the basics</h3>
+<h3>Public Landing page</h3>
+<img src="/images/landing.png">
+  
+<h3>Search Page</h3>
+<img src="/images/search.png">
+  
+<h3>Profile page</h3>
+<img src="/images/profile.png">
+  
+<h3>Club page</h3>
+<img src="/images/club-page.png">
+  
+<h3>Club admin home page</h3>
+<img src="/images/club-edit.png">
+  
+<h3>Browse clubs by interest area(s)</h3>
+<img src="/images/list.png">
+  
+<h3>Admin home page</h3>
+
+
+
+<h2 id="beyond-the-basics">Beyond the basics</h2>
 
 <p>After implementing the basic functionality, here are ideas for more advanced features:</p>
 
