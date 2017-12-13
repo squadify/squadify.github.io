@@ -8,13 +8,11 @@
 
 <p><em>The solution:</em> The Squadify application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, URLs to their websites (if any), contact information for officers, and a few select photos.</p>
 
-<p>Squadify has four user roles where three have to login with their UH ID. Regular users browse the directory without logging in. Students seeking to apply to a club can login, create a basic profile and apply to the club. Admins make sure site content is appropriate, allow club creation, and grant “club admin” privileges to selected users. Club Admins have the ability to edit the data associated with their club and receive an email when a person is applying to the club.</p>
+<p>Squadify has three user roles where two have to login with their UH ID. Regular users browse the directory without logging in. Admins make sure site content is appropriate, allow club creation and deletion (with initial data population), and ability to edit all pages. Club Admins have the ability to edit the data associated with their club.</p>
 
-<p>The site should not simply support browsing by a list of clubs in alphabetical order, but should also allow filtering by interest area. For example, “athletic” clubs, “art” clubs, “music” clubs, etc.  A club can belong to multiple interest areas.</p>
+<p>The site does not simply support browsing by a list of clubs in alphabetical order, but also allows filtering by interest area. For example, “athletic” clubs, “art” clubs, “music” clubs, etc.  A club can belong to multiple interest areas. There is alos a search bar and search page allowing browsing for names and </p>
 
-<p>Admins can monitor the site for inappropriate content, create new tags, and ban inappropriate users who violate the Terms of Use.</p>
-
-<h2 id="mockup-page-ideas">Mockup page</h2>
+<h2 id="mockup-page-ideas">Pages</h2>
 
 
 <h3>Public Landing page</h3>
@@ -22,9 +20,8 @@
   
 <h3>Search Page</h3>
 <img src="/images/search.png">
-  
-<h3>Profile page</h3>
-<img src="/images/profile.png">
+
+<h3>Search Page Searched</h3>
   
 <h3>Club page</h3>
 <img src="/images/club-page.png">
@@ -46,7 +43,9 @@
 <ul>
   <li>Notify admins when club data changes so they can review for appropriateness.</li>
   <li>Provide “expiration date” for club listings (either one semester or one academic year).  To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.</li>
-  <li>Allow students to rate clubs.</li>
+  <li>Allow students to apply to clubs.</li>
+  <li>Allow clubs to upload pictures instead of hosting offsite</li>
+  <li>Add calendar and club meeting time functionality</li>
 </ul>
 
 <a href="https://github.com/squadify/squadify.github.io">Link</a> to project.
