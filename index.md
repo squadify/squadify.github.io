@@ -10,7 +10,7 @@
 
 <p>Squadify has three user roles where two have to login with their UH ID. Regular users browse the directory without logging in. Admins make sure site content is appropriate, allow club creation and deletion (with initial data population), and ability to edit all pages. Club Admins have the ability to edit the data associated with their club.</p>
 
-<p>The site does not simply support browsing by a list of clubs in alphabetical order, but also allows filtering by interest area. For example, “athletic” clubs, “art” clubs, “music” clubs, etc.  A club can belong to multiple interest areas. There is alos a search bar and search page allowing browsing for names and </p>
+<p>The site does not simply support browsing by a list of clubs in alphabetical order, but also allows filtering by interest area. For example, “athletic” clubs, “art” clubs, “music” clubs, etc.  A club can belong to multiple interest areas. There is also a search bar and search page allowing browsing for names and preset tags.</p>
 
 
 <h2 id="mockup-page-ideas">Pages</h2>
