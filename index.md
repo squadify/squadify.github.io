@@ -18,7 +18,8 @@
 <h3>Public Landing Page</h3>
 <img src="/images/landing.png">
 <p>
-  This will be the first page users see. If people login, if they are not admin or club leader, nothing will happen, otherwise
+  When users access the page, this will be the first page the user will see. The top of the page contains a search bar along with the menu bar. The Search bar will be used to search for clubs or intrests that the user has. The menu bar contains four options which are very simply: <li><a class="item"> home ofcourse leading back to the front page</a> 
+  <a class="item">search being a similar function to the search bar feature</a><a class="item">list will display all of the clubs that the unviersity has to offer in alphabetical order.</a> <a class="item">Finally, the login option which would allow you to see the club you manage if you do manage any or if you are an admin you will have admin privledges. </a></li> Underneath the menubar the page will randomly select clubs and displays them in the "Spotlight Organization" section. The club that will be displayed will have their club name at the top and have both a picture and a brief description on what the club is about.
 </p>
 
 <h3>Club Leader Page
