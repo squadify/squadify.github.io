@@ -15,8 +15,13 @@
 
 <h2 id="mockup-page-ideas">Pages</h2>
 
-<h3>Public Landing page</h3>
+<h3>Public Landing Page</h3>
 <img src="/images/landing.png">
+<p>
+  This will be the first page users see. If people login, if they are not admin or club leader, nothing will happen, otherwise
+</p>
+
+<h3>Club Leader Page
   
 <h3>Search Page</h3>
 <img src="/images/search.png">
@@ -24,19 +29,19 @@
 <h3>Search Page Searched</h3>
 <img src="/images/search2.png">
   
-<h3>Club page</h3>
+<h3>Club Page</h3>
 <img src="/images/club-page.png">
   
-<h3>Club admin home page</h3>
+<h3>Club Edit Page</h3>
 <img src="/images/club-edit.png">
   
 <h3>Browse clubs by interest area(s)</h3>
 <img src="/images/list.png">
   
-<h3>Admin home page</h3>
+<h3>Admin List Page</h3>
 
 
-<h2>How to Install<h2>
+<h2>How to Install</h2>
 
 <ol>
   <li>Retrieve copy from github</li>
@@ -44,10 +49,10 @@
   <li>Open command line/prompt or whatever tool and go to squadify/app</li>
   <li>Run the following command: 'meteor npm install'</li>
   <li>If want to repopulate database adjust the initial-collection-data.json file</li>
-  <ul>
+  <li><ul>
     <li>If want to run locally, just run 'meteor npm run start'</li>
     <li>If on server, push onto server in server's desired manner</li>
-  </ul>
+  </ul></li>
   <li>Enjoy!</li>
 </ol>
 
