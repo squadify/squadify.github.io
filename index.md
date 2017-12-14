@@ -37,7 +37,7 @@
   
 <h3>Club Edit Page</h3>
 <img src="/images/club-edit.png">
-<p>This page is for club leaders. When the user logs in they will be presented with another option on the menu bar called "something". This will display the clubs that they are leaders of and once they click on one of those clubs that they manage they will be redirected to the club page where they will have the option to edit the page. If the leader of the clubs chooses to edit the page they will be redirected here. On the club edit page the leader will be able to modify the summary, contact, and upload pictures of the club.</p>
+<p>This page is for club leaders. When the user logs in they will be presented with another option on the menu bar called "Club Edit". This will display the clubs that they are leaders of and once they click on one of those clubs that they manage they will be redirected to the club page where they will have the option to edit the page. If the leader of the clubs chooses to edit the page they will be redirected here. On the club edit page the leader will be able to modify the summary, contact, and upload pictures of the club.</p>
   
 <h3>Browse clubs by interest area(s)</h3>
 <img src="/images/list.png">
