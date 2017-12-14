@@ -22,7 +22,6 @@
   <li>SEARCH being a similar function to the search bar feature</li><li>LISTS will display all of the clubs that the unviersity has to offer in alphabetical order.</li> <li> Finally, the login option which would allow you to see the club you manage if you do manage any or if you are an admin you will have admin privledges.</li></p><p> Underneath the menubar the page will randomly select clubs and displays them in the "Spotlight Organization" section. The club that will be displayed will have their club name at the top and have both a picture and a brief description on what the club is about.
 </p>
 
-<h3>Club Leader Page
   
 <h3>Search Page</h3>
 <img src="/images/search.png">
