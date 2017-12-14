@@ -25,7 +25,7 @@
   
 <h3>Search Page</h3>
 <img src="/images/search.png">
-<p>This is a view of the search page without any searchs being made. You can either type the club name in or search by tags which are preset and the clubs that match the users search will be displayed under "Results".</p>
+<p>This is a view of the search page without any searches being made. You can either type the club name in or search by tags which are preset and the clubs that match the users search will be displayed under "Results".</p>
 
 <h3>Search Page Searched</h3>
 <img src="/images/search2.png">
@@ -33,7 +33,7 @@
   
 <h3>Club Page</h3>
 <img src="/images/club-page.png">
-<p>When the user finds a club that is interesting to them they will be able to click on the club link which would redirect them here, the club's page. The user will be able to see the club's picture or pictures depending on if the club provided multiple pictures. Also the user will be able to see the club's summary and will be able to contact them via their contact options below the summary.</p>
+<p>When the user finds a club that is interesting to them they will be able to click on the club link which would redirect them here, the club's page. The user will be able to see the club's picture or pictures depending on if the club provided multiple pictures. Also, the user will be able to see the club's summary and will be able to contact them via their contact options below the summary.</p>
   
 <h3>Club Edit Page</h3>
 <img src="/images/club-edit.png">
@@ -41,10 +41,10 @@
   
 <h3>Browse clubs by interest area(s)</h3>
 <img src="/images/list.png">
-<p>When the user clicks on "LISTS" on the menu bar they will be redirected to this page where all of the clubs will be listed in alphabetical order. Users will be able to sort by tags which are presented on the left hand side of the page under Index.</p>
+<p>When the user clicks on "LISTS" on the menu bar they will be redirected to this page where all of the clubs will be listed in alphabetical order. Users will be able to sort by tags which are presented on the left-hand side of the page under Index.</p>
   
 <h3>Admin List Page</h3>
-<p>This is the same view as the List page however because this is admin privledges, there is an "Edit" option after every club giving the admin the power to delete or edit the club. </p>
+<p>This is the same view as the List page however because this is admin privileges, there is an "Edit" option after every club giving the admin the power to delete or edit the club. </p>
 
 
 <h2>How to Install</h2>
